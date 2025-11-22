@@ -2,11 +2,6 @@
 **Aspiring Developer | Tech Enthusiast | Lifelong Learner**
 
 
-<p align="center">
-  <img src=""C:\Users\sreya\Downloads\artificial-intelligence-22071_256.gif" width="600"/>
-</p>
-
-
 
 
 Welcome to my GitHub! I love turning complex ideas into simple solutions — through coding, problem solving, and building projects that teach me something new every day.
