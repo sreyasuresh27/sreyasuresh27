@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src=""C:\Users\sreya\Downloads\artificial-intelligence-22071_256.gif"" width="600"/>
+  <img src=""C:\Users\sreya\Downloads\artificial-intelligence-22071_256.gif" width="600"/>
 </p>
 
 
