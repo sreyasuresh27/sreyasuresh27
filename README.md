@@ -1,6 +1,21 @@
 # Hi  I'm Sreya 👋
 **Aspiring Developer | Tech Enthusiast | Lifelong Learner**
 
+
+<h1 align="center">🌃 Night Coding Vibes</h1>
+
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.b11879fb-8c87-4393-93c1-8c29f49892a1.png" alt="Nighttime coding desk with stars" width="600"/>
+</p>
+
+<p align="center">
+  Late nights, code lines, and coffee sips under the stars.  
+  Welcome to my digital workspace ✨
+</p>
+
+
+
+
 Welcome to my GitHub! I love turning complex ideas into simple solutions — through coding, problem solving, and building projects that teach me something new every day.
 
 
