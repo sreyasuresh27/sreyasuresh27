@@ -2,15 +2,8 @@
 **Aspiring Developer | Tech Enthusiast | Lifelong Learner**
 
 
-<h1 align="center">🌃 Night Coding Vibes</h1>
-
 <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.b11879fb-8c87-4393-93c1-8c29f49892a1.png" alt="Nighttime coding desk with stars" width="600"/>
-</p>
-
-<p align="center">
-  Late nights, code lines, and coffee sips under the stars.  
-  Welcome to my digital workspace ✨
+  <img src=""C:\Users\sreya\Downloads\artificial-intelligence-22071_256.gif"" width="600"/>
 </p>
 
 
