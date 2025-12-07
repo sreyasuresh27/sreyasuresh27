@@ -1,7 +1,9 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM https://i.pinimg.com/736x/87/30/7c/87307c5992afd2a71b8769bfd72ed44b.jpg)
+
 # Hi  I'm Sreya 👋
 **Aspiring Developer | Tech Enthusiast | Lifelong Learner**
 
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
 
 Welcome to my GitHub! I love turning complex ideas into simple solutions — through coding, problem solving, and building projects that teach me something new every day.
