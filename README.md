@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM https://i.pinimg.com/736x/87/30/7c/87307c5992afd2a71b8769bfd72ed44b.jpg)
+![MasterHead](https://i.pinimg.com/736x/87/30/7c/87307c5992afd2a71b8769bfd72ed44b.jpg)
+
 
 # Hi  I'm Sreya 👋
 **Aspiring Developer | Tech Enthusiast | Lifelong Learner**
