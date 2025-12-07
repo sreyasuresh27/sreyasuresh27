@@ -1,18 +1,20 @@
-![MasterHead](https://i.pinimg.com/736x/87/30/7c/87307c5992afd2a71b8769bfd72ed44b.jpg)
+<p>
+  <img  align="centre" width="900" height="700" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="MasterHead"/>
+</p>
 
+   <h1 align="center"> Hi  I'm Sreya 👋</h1>
 
-# Hi  I'm Sreya 👋
-**Aspiring Developer | Tech Enthusiast | Lifelong Learner**
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
+ <h3 align="centre"> Aspiring Developer | Tech Enthusiast | Lifelong Learner </h3>
 
 
 Welcome to my GitHub! I love turning complex ideas into simple solutions — through coding, problem solving, and building projects that teach me something new every day.
 
+ <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-## 🚀 About Me — **Chaos Edition**
 
-* 💻 **Currently pursuing BTech** — where I major in Engineering and minor in crying over code 😭💻
+🚀 About Me — Chaos Edition
+
+ 💻 **Currently pursuing BTech** — where I major in Engineering and minor in crying over code 😭💻
   *Sleep.exe has stopped working. Debugging life in progress…*
 * 🎓 Competing in **competitive programming** like it’s the Olympics of brain damage 🧠🏋️‍♂️
 * 🌱 Learning **Web Dev, Photoshop, Blender & AI** — because apparently I thought having *one* hobby was too peaceful 😌
