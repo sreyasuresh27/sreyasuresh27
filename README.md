@@ -9,16 +9,10 @@ Welcome to my GitHub! I love turning complex ideas into simple solutions — thr
 
 
 🚀 About Me — Chaos Edition
-
- 💻 **Currently pursuing BTech** — where I major in Engineering and minor in crying over code 😭💻
-  *Sleep.exe has stopped working. Debugging life in progress…*
 * 🎓 Competing in **competitive programming** like it’s the Olympics of brain damage 🧠🏋️‍♂️
-* 🌱 Learning **Web Dev, Photoshop, Blender & AI** — because apparently I thought having *one* hobby was too peaceful 😌
 * ✏️ **Sketching addict** — I draw to escape reality because therapy is expensive 🎨🖤
-* 🤯 Brain filled with **50 ideas per second**, zero completed — professional overthinker
 * 🎮 When I’m not coding, I’m **speed-running books, video games, and existential crises**
 * ☕ Running on **coffee, chaos & deadlines that I definitely saw coming but ignored anyway**
-* 😄 Fluent in **C++, Java, Sarcasm**, and random facts no one asked for
 * ⚠️ **Warning:** May start rambling about tech or dragons without any context 🐉
 
 
